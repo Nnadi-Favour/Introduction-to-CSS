@@ -1,0 +1,83 @@
+body{
+    /* background-color:#ffff;
+    background-image: url(./download.jpg);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size:contain;
+    background-position: left; */
+   background: url(./download.jpg) blue no-repeat fixed contain;
+}
+
+/* border */
+/* p{
+     border: 5px solid black;  
+    color: black   ;
+      border-left-style: dotted;
+     border-right-style: solid;
+     border-bottom-style: dotted;
+     border-top-style: solid; 
+      border-radius: 10px; 
+     outline:15px solid red  ;
+     width: 600px;
+     height: 550px;
+     padding-top:50px;
+     outline-offset: 55px;
+     margin-top: 150px;
+     margin-left: 150px;
+    /* outline-style: dotted; */
+    /* background-color: gray;
+    text-transform: capitalize;
+    text-indent:50px; */
+    /* letter-spacing:5px; */
+    /* line-height: 1.0;
+    word-spacing: 50px; */
+    /* white-space:nowrap; */
+    /* text-shadow: 0 0 15px red  ;
+    font-size: 30px; */
+    
+
+     /* */ */
+/* } */
+.fa-car{
+  font-size: 50px;
+  color: red;
+  border: 2px solid black;
+  width: 10px;
+  height: 10px;
+  border-radius:10px;
+}
+
+
+.fa-heart{
+  font-size: 50px;
+  color: red;
+}
+.line{
+  color: red;
+ 
+}
+.line2{
+  color: black;
+  margin-top: -620px;
+  margin-left: 50px;
+}
+.div1, .div2, .div3{
+  float: left;
+  margin-left: 100px;
+  width: 150px;
+  height: 300px;
+   background-color: blue; 
+
+}
+.general_div{
+  color: brown;
+  width: 1000px;
+  height: 500px;
+  background-color:green;
+
+}
+
+
+
+
+
